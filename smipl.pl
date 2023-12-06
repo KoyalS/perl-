@@ -1,0 +1,11 @@
+print "hello world\n " x 10;
+print "*" x 60 ;
+print"\n";
+$a=10;
+print  $a , "\n";
+$a++;
+print $a,"\n";
+print "*" x 60 , "\n";
+$k="Koyal shivpuje";
+print "{$k} \n"; 
+print "The value of $k=$a\n";
